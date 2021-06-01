@@ -55,8 +55,8 @@
 | 49 | ...
 | 50 | ...
 
-Introduction to Algorithms | Technical | | ???
-Cracking the Coding Interview | Technical | | ???
-| 0 | The C Programming Langauge (2E) | Technical |  |
-| 0.1 | The C Answer Book (2E) | Technical | |
-| ?? | Designing Web APIs | Technical | |
+| | Introduction to Algorithms | Technical | | ???
+| | Cracking the Coding Interview | Technical | | ???
+| | The C Programming Langauge (2E) | Technical |  |
+| | The C Answer Book (2E) | Technical | |
+| | Designing Web APIs | Technical | |
